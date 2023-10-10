@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @darsh132
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m working as .NetDeveloper
 - 📫 How to reach me - contact no.9769451816/9372181313
 
 <!---
