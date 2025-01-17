@@ -18,7 +18,7 @@ I work with a variety of technologies to deliver efficient solutions:
 ## 💬 Let's Connect  
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about software development!  
 - 📞 **Contact:** 9769451816 / 9372181313  
-- 📧 **Email:** [Your Email] (optional)  
+- 📧 **Email:** darshanbbane2000@gmail.com  
 
 Thanks for stopping by! Let's build something awesome! 🚀
 
