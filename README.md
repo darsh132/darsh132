@@ -1,71 +1,101 @@
-# 👋 Hi, I'm Darshan Bane
+# Hi there 👋, I'm Darshan Bane
 
-.NET Full Stack Developer with 4+ years of experience building web applications using ASP.NET Core, Angular, React, and SQL Server. I enjoy creating maintainable software, improving application performance, and continuously learning new technologies.
+### .NET Full Stack Developer
 
-## 🛠 Tech Stack
+I am a software developer with 4+ years of experience designing, developing, and maintaining web applications using Microsoft's technology stack. My primary focus is on building reliable, scalable, and maintainable solutions while following industry best practices and clean coding standards.
 
-### Backend
+I enjoy solving complex business problems, improving application performance, and continuously expanding my technical expertise across backend, frontend, and DevOps technologies.
+
+---
+
+## Professional Summary
+
+* Experienced in developing enterprise-grade web applications using ASP.NET Core and C#
+* Strong understanding of RESTful API development and database design
+* Skilled in building responsive user interfaces with Angular and React
+* Hands-on experience with SQL Server and modern development workflows
+* Advocate of Clean Architecture, SOLID principles, and maintainable code practices
+* Experienced in source control, CI/CD workflows, and containerized development environments
+* Passionate about continuous learning and software craftsmanship
+
+---
+
+## Technical Expertise
+
+### Backend Development
 
 * C#
 * ASP.NET Core
 * .NET 6 / .NET 8
 * Entity Framework Core
-* REST APIs
+* RESTful APIs
 
-### Frontend
+### Frontend Development
 
 * Angular
 * React
-* JavaScript
 * TypeScript
-* HTML
-* CSS
+* JavaScript
+* HTML5
+* CSS3
 * Bootstrap
 * Tailwind CSS
 
-### Database
+### Database Technologies
 
 * SQL Server
 * MySQL
 * SQLite
 
-### Development Practices
+### Software Engineering Practices
 
 * Clean Architecture
 * SOLID Principles
 * Design Patterns
+* Code Reviews
 * Agile Development
 
-### Tools
+### Tools & Platforms
 
 * Git & GitHub
 * Docker
 * Jenkins
-* Postman
 * IIS
+* Postman
 
-## 🚀 What I'm Currently Learning
+---
 
-* Advanced .NET Development
-* Software Architecture
-* DevOps & CI/CD
-* Performance Optimization
-* Modern Frontend Development
+## Current Areas of Focus
 
-## 📂 What You'll Find Here
+* Building scalable and maintainable .NET applications
+* Enhancing software architecture and design skills
+* Strengthening DevOps and CI/CD practices
+* Exploring modern frontend development patterns
+* Improving application performance, security, and reliability
 
-* ASP.NET Core Projects
-* Full Stack Applications
+---
+
+## GitHub Highlights
+
+This profile serves as a collection of:
+
+* Full Stack Development Projects
+* ASP.NET Core Applications
 * API Development Examples
-* Learning Experiments
-* Personal Projects
+* Learning Initiatives and Experiments
+* Technical Proof-of-Concepts
+* Open Source Contributions
 
-## 🤝 Connect With Me
+---
 
-📧 Email: [darshanbbane2000@gmail.com](mailto:darshanbbane2000@gmail.com)
+## Connect With Me
 
-💼 LinkedIn: linkedin.com/in/darshan-bane-06b414216
+📧 Email: **[darshanbbane2000@gmail.com](mailto:darshanbbane2000@gmail.com)**
 
-🐙 GitHub: github.com/darsh132
+💼 LinkedIn: **linkedin.com/in/darshan-bane-06b414216**
 
-Thanks for visiting my profile!
+🐙 GitHub: **github.com/darsh132**
+
+---
+
+*"Great software is built through continuous learning, thoughtful design, and attention to detail."*
