@@ -1,28 +1,71 @@
-# 👋 Hi, I’m @darsh132  
+# 👋 Hi, I'm Darshan Bane
 
-Welcome to my GitHub profile! I’m a **.NET Developer** with over 2.6 years of experience in crafting secure, scalable, and modern web applications. I’m passionate about building clean, maintainable code and staying up to date with the latest technologies.
+.NET Full Stack Developer with 4+ years of experience building web applications using ASP.NET Core, Angular, React, and SQL Server. I enjoy creating maintainable software, improving application performance, and continuously learning new technologies.
 
-## 🛠️ Technologies & Tools  
-I work with a variety of technologies to deliver efficient solutions:  
-- **Backend:** .NET Core, .NET 6/8, Node.js  
-- **Frontend:** Angular, React, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
-- **Databases:** SQL Server, MySQL, SQLite  
-- **Architecture:** Clean Architecture, Design Patterns, SOLID Principles  
-- **Other Tools:** Git, Docker, CI/CD pipelines  
+## 🛠 Tech Stack
 
-## 🚀 Focus Areas  
-- Mastering **Clean Architecture** and **Design Patterns** for maintainable and scalable applications.  
-- Enhancing web security and performance with a focus on best practices.  
-- Contributing to the **open-source community** and continuous learning.  
+### Backend
 
-## 💬 Let's Connect  
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about software development!  
-- 📞 **Contact:** 9769451816 / 9372181313  
-- 📧 **Email:** darshanbbane2000@gmail.com  
+* C#
+* ASP.NET Core
+* .NET 6 / .NET 8
+* Entity Framework Core
+* REST APIs
 
-Thanks for stopping by! Let's build something awesome! 🚀
+### Frontend
 
-<!---
-darsh132/darsh132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Angular
+* React
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+* Bootstrap
+* Tailwind CSS
+
+### Database
+
+* SQL Server
+* MySQL
+* SQLite
+
+### Development Practices
+
+* Clean Architecture
+* SOLID Principles
+* Design Patterns
+* Agile Development
+
+### Tools
+
+* Git & GitHub
+* Docker
+* Jenkins
+* Postman
+* IIS
+
+## 🚀 What I'm Currently Learning
+
+* Advanced .NET Development
+* Software Architecture
+* DevOps & CI/CD
+* Performance Optimization
+* Modern Frontend Development
+
+## 📂 What You'll Find Here
+
+* ASP.NET Core Projects
+* Full Stack Applications
+* API Development Examples
+* Learning Experiments
+* Personal Projects
+
+## 🤝 Connect With Me
+
+📧 Email: [darshanbbane2000@gmail.com](mailto:darshanbbane2000@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/darshan-bane-06b414216
+
+🐙 GitHub: github.com/darsh132
+
+Thanks for visiting my profile!
